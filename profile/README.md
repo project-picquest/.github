@@ -5,11 +5,14 @@
 | <img src="https://github.com/Sang-hak.png" width="250" /> | <img src="https://github.com/hellosonic-r.png" width="250" /> |
 | [박상학](https://github.com/Sang-hak) | [황민호](https://github.com/hellosonic-r) |
 
+<br></br>
+
 # 👀 프로젝트 개요
 ### 게임을 통해 여행의 동기와 재미를 동시에, PicQuest
 - 매일 랜덤하게 주어지는 관광지 사진과 유사한 사진을 찍을 수록 높은 점수!
 - 지도를 활용한 관광지 검색 기능 및 방문 사진 업로드 가능
 - 프로젝트 진행 기간 : `2024.11.19 ~ 2024.11.26`
+- 삼성 청년 SW 아카데미 1학기 프로젝트 우수상
 - 향후 리팩토링 및 서비스 확장 예정!
 <br></br>
 
@@ -34,4 +37,4 @@
 - 그 외 로그인/회원 가입/로그아웃, 지도 내 관광지 위치 확인 기능
 <br></br>
 ### 🛠 기술 스택
-`Spring` `FastAPI` `Figma` `MySQL` `MyBatis` `HuggingFace`
+`Spring` `FastAPI` `MySQL` `MyBatis` `HuggingFace` `Vue.js` `Figma`
