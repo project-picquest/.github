@@ -16,7 +16,7 @@
 - 향후 리팩토링 및 서비스 확장 예정!
 <br></br>
 
-### 주요 기능
+### 🚀 주요 기능
 **1. 여행지 리스트 추천 및 검색**
 <br></br>
 <img src="https://github.com/project-picquest/.github/blob/main/images/function1.gif?raw=true" width=850>
